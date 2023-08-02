@@ -162,5 +162,17 @@
     "Article_2_Content": "<p>No 2015. līdz 2021. gadam Radio NABA ēterā piektdienu rītos veidojām rīta raidījumu Nabarīts, izklaidējot klausītājus ar vieglu, bezrūpīgu, humoristisku saturu par aktuāliem un ļoti aktuāliem, vispasaulīgiem un ikdienišķiem jautājumiem. Ēteru bija tas prieks dalīt gan ar Mārtiņu “Kozmenu” Kozlovski, Gati “Putnu” Cīruli, DJ Kozy jeb Jāni Kozlovski un DJ Koknesi jeb Rihardu Blesi. Piektdienas Nabarīts ir arī raidījums, kurā pirmo reizi iepazīstinājām klausītāju ar tehnoloģiju rubriku Digitālās brokastis. Nabarīta otrajā daļā sveicām jubilārus un tās dienas svētku svinētājus, apskatījām dienu no vēsturiskā nozīmīguma perspektīvas un aizvadījām saturīgi vieglas sarunas par dažnedažādām tēmām.</p>",
     "Article_2_Image_Alt": "Discussion on electric scooter integration into traffic safely",
     "Review_FaceBook_Button_Title": "Pajautāt atsauksmi kopīgam draugam"
+  },
+  "404": {
+    "Meta_Title": "Artis Ozoliņš",
+    "Meta_Key": "Pasākumu vadītājs, Diskusiju moderators, Kāzu vadītājs",
+    "Meta_Desc": "Vadu dažāda veida pasākumus – sākot no korporatīvajiem līdz izklaides, gan lielus, gan mazus, latviski un angliski. Improvizācijas teātris un radio raidījuma vadīšana man devusi spēju arī moderēt dažāda veida diskusijas un iedegt dzirksteles cilvēku acīs, vadot kāzas.",
+    "Meta_Url": "https://www.artisozolins.lv",
+
+    "LABEL": "ups! Kļūda ...",
+    "TITLE": "Lapa netika atrasta",
+    "DESC": "Šķiet, ka šī lapa devās brīvdienās.",
+    "LINK": "Tā vietā atveriet mūsu sākumlapu.",
+    "ALT": "404 skaitlis ar mikrofonu"
   }
 }

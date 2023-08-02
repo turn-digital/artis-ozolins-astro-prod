@@ -1,8 +1,7 @@
 ---
 import "~styles/style.scss";
 import Layout from "../components/Layout/Layout";
-// import Hero from "../components/Hero/Hero.astro";
-import { t, changeLanguage } from "i18next";
+import { t, changeLanguage, language } from "i18next";
 
 changeLanguage("lv");
 
@@ -15,7 +14,29 @@ const footerInfo = {
 };
 ---
 
-<Layout footerInfo={footerInfo} headerInfo={"/radio-personiba"}>
-  {t("index.Footer_Title_Index")}
-  <a href="/">go home</a>
-</Layout>
+<div class="notfound">
+  <Layout
+    footerInfo={footerInfo}
+    headerInfo={"/404"}
+    htmlLang={t("index.htmlLang")}
+    description={t("404.Meta_Desc")}
+    title={t("404.Meta_Title")}
+  >
+    <div class="notfound__box">
+      <div class="notfound__content">
+        <p class="notfound__label">{t("404.LABEL")}</p>
+        <div class="notfound__image">
+          <img src={"/assets/images/svg/404.svg"} alt={t("ALT")} />
+        </div>
+        <h1 class="notfound__title">{t("404.TITLE")}</h1>
+        <p class="notfound__desc">{t("404.DESC")}</p>
+        <p>
+          {" "}
+          <a class="notfound__link" href={`/${language === "lv" ? "" : "en"}`}>
+            {t("404.LINK")}
+          </a>
+        </p>
+      </div>
+    </div>
+  </Layout>
+</div>
