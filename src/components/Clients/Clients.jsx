@@ -14,7 +14,7 @@ const Clients = (props) => {
             />
           </div>
           <div className="clients__img">
-            <img src="/assets/images/airbaltic_logo.png" alt="airBaltic logo" />
+            <img src="/assets/images/svg/airbaltic.svg" alt="airBaltic logo" />
           </div>
           <div className="clients__img">
             <img src="/assets/images/svg/logo-lu.svg" alt="LU logo" />
