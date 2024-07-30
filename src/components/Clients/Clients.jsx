@@ -8,31 +8,25 @@ const Clients = (props) => {
         <h3 className="clients__title title">{title}</h3>
         <div className="clients__list">
           <div className="clients__img">
-            <img
-              src="/assets/images/svg/logo-facebook.svg"
-              alt="Facebook logo"
-            />
+            <img src="/assets/images/svg/logo-facebook.svg" alt="Facebook logo" />
           </div>
           <div className="clients__img">
             <img src="/assets/images/svg/airBaltic.svg" alt="airBaltic logo" />
           </div>
           <div className="clients__img">
-            <img src="/assets/images/svg/logo-lu.svg" alt="LU logo" />
+            <img src="/assets/images/LU logotips.png" alt="LU logo" />
           </div>
           <div className="clients__img">
-            <img
-              src="/assets/images/Delfi-logo-recolored.png"
-              alt="Delfi logo"
-            />
+            <img src="/assets/images/Delfi logotips.png" alt="Delfi logo" />
           </div>
           <div className="clients__img">
-            <img src="/assets/images/svg/golin-logo.svg" alt="Golin logo" />
+            <img src="/assets/images/TVNET logotips.png" alt="TVNET logo" />
           </div>
           <div className="clients__img">
             <img src="/assets/images/svg/logo-rtu.svg" alt="RTU logo" />
           </div>
           <div className="clients__img">
-            <img src="/assets/images/svg/liaa-logo.svg" alt="LIAA logo" />
+            <img src="/assets/images/LIAA logotips.png" alt="LIAA logo" />
           </div>
           <div className="clients__img">
             <img src="/assets/images/svg/Tet_logo.svg" alt="TET logo" />
