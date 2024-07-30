@@ -21,8 +21,8 @@ const Clients = (props) => {
           </div>
           <div className="clients__img">
             <img
-              src="/assets/images/svg/ideju-instituts-logo.svg"
-              alt="Ideju institūta logo"
+              src="/assets/images/Delfi-logo-recolored.png"
+              alt="Delfi logo"
             />
           </div>
           <div className="clients__img">
