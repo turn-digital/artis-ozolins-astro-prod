@@ -20,7 +20,7 @@ const OverviewBlock = (activitiesAlt) => {
           <li className="overview__item">
             <div className="overview__image">
               <img
-                src="/assets/images/moderators.jpg"
+                src="/assets/images/ArtisModere2.JPEG"
                 alt={moderator}
                 placeholder="blurred"
                 height="40px"
