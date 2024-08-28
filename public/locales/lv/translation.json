@@ -63,13 +63,13 @@
     },
     "Background_Image_Alt": "Moderators",
 
-    "Article_1_Title": "Diskusija par elektrisko skrejriteņu drošu integrēšanu satiksmē",
-    "Article_1_Content": "<p>Jaunas un jaudīgas nozares uzrāvienā būtisks ir cilvēkam draudzīgs likums. Jautrība vs. drošība, ierobežojums vs. bizness, 10 līdzīgi un atšķirīgi viedokļi. Šo apkopojot ar prasmīgu moderēšanu, top sarunas un secinājumi, kas kalpo kā kārtīgs pamats nozares tālākai sekmīgai attīstībai.</p>",
-    "Article_1_Image_Alt": "Diskusija par elektrisko skrejriteņu drošu integrēšanu satiksmē",
-
-    "Article_2_Title": "Diskusija “Ēnu ekonomikas indekss Latvijas būvniecībā 2015 – 2019”",
-    "Article_2_Content": "<p>Vienā no jaudīgākajām nozarēm Latvijā – būvniecībā – ēnu ekonomikas izskaušana ir viens no stūrakmeņiem, par ko vienuviet hibrīda pasākumā klātienes studijā un attālināti tiešsaistē pulcējās runāt simtiem nozares speciālistu. Sarunas veidošana un uzturēšana starp klātienes un Zoom platformā pieslēgtajiem izdevās sekmīgi, nodrošinot skatītājiem nepārtrauktu un organisku diskusijas baudīšanas pieredzi.</p>",
-    "Article_2_Image_Alt": "Diskusija “Ēnu ekonomikas indekss Latvijas būvniecībā 2015 – 2019”",
+    "Article_1_Title": "The impact of technology on street culture",
+    "Article_1_Content": "<p>Kā tehnoloģijas ietekmē ielu kultūru? Uz LOGIN 2024 starptautiskās konferences skatuves simtiem skatītāju priekšā kopā ar skeitbordistu Madaru Apsi, Lietuvas BMX Asociācijas vadītāju Karoli Lamsargi un DJ Mamania brīvā gaisotnē šķetinājām jautājumus par to, kā sports un ielu māksla Baltijas valstīs ir mainījušies, digitālajiem rīkiem un gadžetiem pārņemot mūsu ikdienu. Diskusijas plūdenumu panācām kā ar labi sagatavotiem, visaptverošiem jautājumiem, tā arī atraisot runātājus ar icebreaker spēli sarunas sākumā.</p>",
+    "Article_1_Image_Alt": "The impact of technology on street culture",
+    
+    "Article_2_Title": "Diskusija par elektrisko skrejriteņu drošu integrēšanu satiksmē",
+    "Article_2_Content": "<p>Jaunas un jaudīgas nozares uzrāvienā būtisks ir cilvēkam draudzīgs likums. Jautrība vs. drošība, ierobežojums vs. bizness, 10 līdzīgi un atšķirīgi viedokļi. Šo apkopojot ar prasmīgu moderēšanu, top sarunas un secinājumi, kas kalpo kā kārtīgs pamats nozares tālākai sekmīgai attīstībai.</p>",
+    "Article_2_Image_Alt": "Diskusija par elektrisko skrejriteņu drošu integrēšanu satiksmē",
 
     "Article_3_Title": "DELFI media LAB diskusija: Baltic Digital Media Landscape",
     "Article_3_Content": "<p>Hanzas peronā tandēmā ar Lydia Oyeniyi tika aizvadīta saturiski bagātīga diena uz mediju skatuves. No meditācijas kopā ar mūku līdz prezentācijām un diskusijām. Vadīt pārī bija patīkama pieredze, kas ļāva apvienot strukturētu pasākuma vadīšanu ar <i>stand-up</i> komiķes piešķilto šarmu. Un dienas beigās atlocīju piedurknes, lai ienirtu augsta līmeņa diskusijas vadībā par Baltijas digitālo mediju attīstību.</p>",
@@ -108,17 +108,17 @@
     },
     "Background_Image_Alt": "Pasākumu vadītājs klātienē un tiešsaistē",
 
-    "Article_1_Title": "Deep Tech Atelier",
-    "Article_1_Content": "<p>Deep Tech Atelier ir vērienīgākā zinātnes komercializācijai veltītā konference Baltijā, kurā var uzzināt par pasaules inovāciju tendencēm, atklājumiem, biznesa iespējām, mācīties no citu pieredzes un labākās prakses. Man atkārtoti bijis tas pagodinājums vadīt Latvijas Investīciju un attīstības aģentūras organizēto konferenci angļu valodā vairāku dienu garumā kā tiešsaistes, tā klātienes skatītāju priekam.</p>",
-    "Article_1_Image_Alt": "Deep Tech Atelier",
+    "Article_1_Title": "Starptautiskā LOGIN 2024 konference Lietuvā",
+    "Article_1_Content": "<p>Divu dienu garumā Viļņā angļu valodā vadīju sarunas uz starptautiskās LOGIN 2024 konferences skatuvi, kas bija saistīta ar inovācijām un tehnoloģijām. Vairāk nekā 5000 cilvēku apmeklētajā notikumā gan pieteicu runātājus, gan moderēju skatītāju jautājumus, kā arī vadīju diskusiju par tehnoloģiju ietekmi uz ielu kultūru. Kārtīgas gatavošanās rezultātā izdevās atraktīvi iedzīvināt skatuvi un nodrošināt izcilu iekļaušanos stingrajā laika grafikā.</p>",
+    "Article_1_Image_Alt": "Starptautiskā LOGIN 2024 konference Lietuvā",
 
-    "Article_2_Title": "The Ignition Events",
-    "Article_2_Content": "<p>Trīs dienu garumā hibrīda pasākumā gan attālināti, gan klātienē Komercializācijas reaktors atkārtoti pulcējis vairāk nekā 100 uzņēmējus un zinātniekus no visas pasaules, lai tie kopā kaldinātu savas prasmes un zināšanas jaunu uzņēmumu dibināšanai. Kā pasākumu vadītājs vairāku gadu garumā gan pieteicu runātājus, gan moderēju pasākumu tehniski, kā arī vadīju <i>pitch</i> prezentācijas investoriem – viss angļu valodā un ciešā sadarbībā ar lielisku organizatoru komandu.</p>",
-    "Article_2_Image_Alt": "The Ignition Events",
+    "Article_2_Title": "Deep Tech Atelier",
+    "Article_2_Content": "<p>Deep Tech Atelier ir vērienīgākā zinātnes komercializācijai veltītā konference Baltijā, kurā var uzzināt par pasaules inovāciju tendencēm, atklājumiem, biznesa iespējām, mācīties no citu pieredzes un labākās prakses. Man atkārtoti bijis tas pagodinājums vadīt Latvijas Investīciju un attīstības aģentūras organizēto konferenci angļu valodā vairāku dienu garumā kā tiešsaistes, tā klātienes skatītāju priekam.</p>",
+    "Article_2_Image_Alt": "Deep Tech Atelier",
 
-    "Article_3_Title": "Jaunrades festivāls iNOVUSS",
-    "Article_3_Content": "<p>Lucavsalas pludmalē divu dienu laikā tika uzburts košs inovāciju festivāls, kas nepiespiestā gaisotnē pulcēja tūkstošiem zinošo un zinātkāro. Cīņa starp dažādajām skatuvēm bija sīva, kas lika mesties ārā un uzrunāt garāmgājējus pievienoties tieši manai teltij. Latviešu un angļu valodā aizvadījām gan prezentācijas, gan diskusijas, gan praktiskas darbnīcas. Aizraujošs darbs divu dienu garumā, kas uzlādēja ar pozitīvām emocijām visus klātesošos!</p>",
-    "Article_3_Image_Alt": "Jaunrades festivāls iNOVUSS",
+    "Article_3_Title": "The Ignition Events",
+    "Article_3_Content": "<p>Trīs dienu garumā hibrīda pasākumā gan attālināti, gan klātienē Komercializācijas reaktors atkārtoti pulcējis vairāk nekā 100 uzņēmējus un zinātniekus no visas pasaules, lai tie kopā kaldinātu savas prasmes un zināšanas jaunu uzņēmumu dibināšanai. Kā pasākumu vadītājs vairāku gadu garumā gan pieteicu runātājus, gan moderēju pasākumu tehniski, kā arī vadīju <i>pitch</i> prezentācijas investoriem – viss angļu valodā un ciešā sadarbībā ar lielisku organizatoru komandu.</p>",
+    "Article_3_Image_Alt": "The Ignition Events",
 
     "Review_1_Title": "Baiba Rāta-Saliņa",
     "Review_1_Position": "Junior Achievement Latvia Senior project manager",
